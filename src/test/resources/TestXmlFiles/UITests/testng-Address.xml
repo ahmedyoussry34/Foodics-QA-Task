@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Address Test Suite">
+    <test name="AddressTests">
+        <classes>
+            <class name="UITests.AddressTests" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="All Tests">
+        <classes>
+            <class name="APITests.CreateUserTests" />
+            <class name="APITests.UpdateUserTests" />
+            <class name="APITests.GetUsersTests" />
+        </classes>
+    </test>
+</suite>
